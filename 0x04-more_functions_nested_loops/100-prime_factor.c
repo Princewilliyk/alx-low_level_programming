@@ -44,4 +44,4 @@ void prime_factors(long test_num)
 		}
 	}
 	printf("%ld\n", test_num);
-
+}
