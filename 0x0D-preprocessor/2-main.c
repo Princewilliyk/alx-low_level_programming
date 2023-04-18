@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/* main - prints name of the file with a new line*/
+/**
+ * main - prints name of the file
+ *
+ * Return: 0
+ */
 
 int main(void)
 {
