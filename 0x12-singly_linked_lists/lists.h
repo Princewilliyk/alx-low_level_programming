@@ -9,7 +9,7 @@
 /**
  * struct list_s - singly linked list
  * @str: string
- * @len length of string
+ * @len: length of string
  * @next: point next node
  * Description: singly linked list struct
  */
