@@ -1,4 +1,4 @@
-#include "list.h"
+#include "lists.h"
 /**
  *print_listint - prints the content of a list
  *@h: the head pointer
